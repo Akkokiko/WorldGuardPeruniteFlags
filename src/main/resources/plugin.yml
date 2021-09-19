@@ -1,0 +1,6 @@
+name: WorldGuardPeruniteFlags
+description: somestuff
+version: '${version}'
+main: me.akkokiko.worldguardperuniteflags.Main
+api-version: 1.16
+depend: [WorldGuard]
